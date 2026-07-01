@@ -10,6 +10,9 @@ pinned: false
 
 # Subscription Money-Leak Auditor
 
+🔗 **Live app:** https://shafiya1234-subscription-auditor.hf.space
+📄 API docs (Swagger): https://shafiya1234-subscription-auditor.hf.space/docs
+
 An agent that reads a pasted bank statement, finds recurring subscriptions,
 resolves cryptic merchant names, totals the **annual** cost, and flags charges
 worth reviewing. Built for the `lab_04_production_surete` deliverable:
